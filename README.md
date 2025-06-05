@@ -33,8 +33,8 @@ Aplicación de escritorio en C# (Windows Forms) que resuelve sistemas de ecuacio
 
 3. Introduce las ecuaciones con formato, por ejemplo:
 
-2x+3y=6
-x-y=1
+ ``` 2x+3y=6
+x-y=1 ``` 
 
 5. Se mostrará la matriz original, la matriz resultante, y las soluciones.
 
