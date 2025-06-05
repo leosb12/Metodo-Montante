@@ -1,6 +1,6 @@
 # Método Montante - Windows Forms
 
-Aplicación de escritorio en C# (Windows Forms) que resuelve sistemas de ecuaciones lineales usando el **Método de Montante (Bareiss)**. Proporciona una interfaz interactiva donde el usuario puede ingresar ecuaciones en notación algebraica y obtener soluciones exactas paso a paso.
+Aplicación de escritorio en C# (Windows Forms) que resuelve sistemas de ecuaciones lineales usando el **Método de Montante (Bareiss)**. Proporciona una interfaz interactiva donde el usuario puede ingresar ecuaciones en notación algebraica y obtener soluciones exactas.
 
 ## 🚀 Características
 
