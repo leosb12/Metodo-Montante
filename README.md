@@ -36,7 +36,7 @@ Aplicación de escritorio en C# (Windows Forms) que resuelve sistemas de ecuacio
 2x+3y=6
 x-y=1
 
-4. Se mostrará la matriz original, la matriz resultante, y las soluciones.
+5. Se mostrará la matriz original, la matriz resultante, y las soluciones.
 
 ## ⚠️ Restricciones
 
