@@ -8,7 +8,7 @@ Aplicación de escritorio en C# (Windows Forms) que resuelve sistemas de ecuacio
 - Validación de ecuaciones algebraicas lineales.
 - Conversión automática a matriz aumentada.
 - Aplicación del algoritmo de Montante con pivoteo.
-- Visualización paso a paso en `DataGridView`.
+- Visualización en `DataGridView`.
 - Cálculo y visualización de las soluciones finales.
 
 ## 🖥️ Requisitos
